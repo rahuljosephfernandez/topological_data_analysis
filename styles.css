@@ -1,0 +1,43 @@
+body {
+    color: #ffffff;
+    background-color: #000000;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1,h2,h3,h4,h5,h6,p {
+    color: #ffffff;
+    font-family:'Times New Roman', Times, serif;
+}
+
+st. h1 {
+    color: #FFFFFF;
+    font-family:'Times New Roman', Times, serif;
+}
+
+st. p {
+    color: #FFFFFF;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.label {
+    color: #ffffff;
+    font-family:'Times New Roman', Times, serif;
+}
+
+p {
+    color: #000000;
+}
+
+.bg-primary {
+    background-color: #000000;
+}
+
+.text-primary {
+    color: #ffffff;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.sidebar .sidebar-content {
+    background-image: linear-gradient(#000000,#000000);
+    color: white;
+}
